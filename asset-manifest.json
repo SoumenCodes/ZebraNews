@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ZebraNews/static/css/main.abd64e84.css",
+    "main.js": "/ZebraNews/static/js/main.92785145.js",
+    "static/js/787.4c026eef.chunk.js": "/ZebraNews/static/js/787.4c026eef.chunk.js",
+    "static/media/1479.gif": "/ZebraNews/static/media/1479.12dae2b10e1ce1afa7da.gif",
+    "static/media/1488.gif": "/ZebraNews/static/media/1488.5dc39072c6455d90a7cd.gif",
+    "index.html": "/ZebraNews/index.html",
+    "main.abd64e84.css.map": "/ZebraNews/static/css/main.abd64e84.css.map",
+    "main.92785145.js.map": "/ZebraNews/static/js/main.92785145.js.map",
+    "787.4c026eef.chunk.js.map": "/ZebraNews/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.92785145.js"
+  ]
+}
